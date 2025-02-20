@@ -1,0 +1,16 @@
+Trevor Nugent
+02/07/25
+Lab 4:3
+
+
+Summary: Used Packet Tracer to simulate a basic network and inspect an HTTP request between a laptop and a server.
+
+Useful Commands:
+  1. ping: Pings a given address and outputs how long it took and how often the packets were dropped.
+
+Major Issues: None notable.
+
+
+
+What is Simulation Mode?: Simulation mode allows you to analyse network traffic and troubleshoot issues that might be occuring using the detailed information it provides.
+How do you save configurations on routers?: Click on the router, go to config, then go to settings under global.  There, you can export and import the current config to save it for later.
