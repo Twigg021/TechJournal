@@ -5,5 +5,8 @@ Lab 2:1
 
 Summary: Used cisco packet tracer to setup and slightly test a basic network.
 
+Useful commands: 
+  1. ping: Pings a given address and outputs how long it took and how often the packets were dropped.
 
-ping- Pings a given address and outputs how long it took and how often the packets were dropped.
+Major Issues:
+  1. Login to Cisco Packet Tracer 7.3 seems nonfunctional, possibly a mac specific issue.  Instead, simply click guest, close the tab it opens, and click it agaain when able.
