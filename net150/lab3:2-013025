@@ -1,6 +1,6 @@
 Trevor Nugent
 02/03/25
-Lab 3:1
+Lab 3:2
 
 
 Summary: Used Wireshark to view incoming and outgoing pings on different workstations under different conditions.
@@ -10,3 +10,7 @@ Useful Commands:
   2. ping: Pings a given address and outputs how long it took and how often the packets were dropped.
 
 Major Issues: None notable.
+
+
+
+What is ARP?: ARP is a protocol used to map MAC addresses to IP addresses.
