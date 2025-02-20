@@ -15,3 +15,4 @@ Major Issues:
 
 How do you deploy workstations and switches in Packet Tracer?: Simply drag objects from the 'tool bar' at the bottom into the white space above it.
 How do connect these devices with cables?: Click the lightning bolt in the 'tool bar' and then choose your desired cable type.  Then simply choose the objects you wish to connect and the slots you wish to use.
+How do you access the command-line terminal on a Packet Tracer PC?: Click the PC you wish to open the CLI of, click on 'Desktop' at the top, and click on 'Command Prompt' in that tab.
