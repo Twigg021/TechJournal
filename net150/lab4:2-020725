@@ -1,0 +1,29 @@
+Trevor Nugent
+02/07/25
+Lab 4:2
+
+
+Summary: Used Packet Tracer to simulate a basic network and inspect packets within one.
+
+Useful Commands:
+  1. ping: Pings a given address and outputs how long it took and how often the packets were dropped.
+
+Major Issues: None notable.
+
+
+
+How do you set the gateway address on a workstation in Packet Tracer?:
+  1. Click on the device
+  2. Go to config
+  3. Go to settings (under global)
+  4. Enter your desired gateway IP in the gateway field
+How do you set the IP and subnet mask on different interfaces of a multilayer switch?:
+  1. CLick on the device
+  2. Go to config
+  3. Go to the interface you wish to edit (under interface)
+  4. Edit fields as you desire
+How do you enter simulation mode in Packet Tracer?:
+  1. Click on the 'Simulation' bubble in the bottom right of the window.
+How do you set which types of packets you want to see in Simulation Mode?:
+  1. With simulation mode selected, click the 'Edit Filters' button
+  2. Choose filters as desired to filter down what type of packets you will see
