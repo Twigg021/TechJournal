@@ -8,3 +8,12 @@ Summary: Used wireshark to read sent and received packets and the data within th
 Useful Commands:
   1. ipconfig /all: Outputs information about the current addresses and ports.
   2. ping: Pings a given address and outputs how long it took and how often the packets were dropped.
+
+Major Issues: None notable.
+
+
+
+What is a MAC address and what are its components?:
+How do you get a MAC address?:
+What is Wireshark and how is it used?
+How do you find a protocol in Wireshark?:
