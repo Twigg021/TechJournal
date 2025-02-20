@@ -13,7 +13,7 @@ Major Issues: None notable.
 
 
 
-What is a MAC address and what are its components?:
-How do you get a MAC address?:
-What is Wireshark and how is it used?
-How do you find a protocol in Wireshark?:
+What is a MAC address and what are its components?: A MAC address is a unique identifier used for communication within a local network.  The first 24 bits are an identifier for the manufacturer, while the last 24 are unique to the device itself.  
+How do you get a MAC address?: On windows, your MAC address can be found with ipconfig /all, and it every device will have one by default after manufacturing.
+What is Wireshark and how is it used?: Wireshark is a program used to capture packets on a network and view them and their contents.
+How do you find a protocol in Wireshark?: To find a specific protocol you simply enter it into the search bar at the top of the window and hit enter.
