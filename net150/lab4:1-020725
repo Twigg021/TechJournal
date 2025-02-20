@@ -1,0 +1,12 @@
+Trevor Nugent
+02/03/25
+Lab 4:1
+
+
+Summary: Used Packet Tracer to simulate a basic network and view the basic functionalities of ARP within one.
+
+Useful Commands:
+  1. ping: Pings a given address and outputs how long it took and how often the packets were dropped.
+  2. arp -a: Lists all current entries.
+
+Major Issues: None notable.
