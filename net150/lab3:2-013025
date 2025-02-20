@@ -8,3 +8,5 @@ Summary: Used Wireshark to view incoming and outgoing pings on different worksta
 Useful Commands:
   1. arp -d: Deletes all data stored within the table.
   2. ping: Pings a given address and outputs how long it took and how often the packets were dropped.
+
+Major Issues: None notable.
