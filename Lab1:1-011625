@@ -1,0 +1,13 @@
+Trevor Nugent
+NET-150
+Lab 1:1
+
+
+Summary: Used various commands to check information about the VM itself and other networks.
+
+
+ipconfig /all- Outputs information about the current addresses and ports.
+ping- Pings a given address and outputs how long it took and how often the packets were dropped.
+tracert- Tracks the jumps between the source computer and a given address, providing similar information to ping along the way.
+nslookup- responds with IP addresses assigned to a given site.
+
