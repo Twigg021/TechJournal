@@ -10,3 +10,8 @@ Useful commands:
 
 Major Issues:
   1. Login to Cisco Packet Tracer 7.3 seems nonfunctional, possibly a mac specific issue.  Instead, simply click guest, close the tab it opens, and click it agaain when able.
+
+
+
+How do you deploy workstations and switches in Packet Tracer?: Simply drag objects from the 'tool bar' at the bottom into the white space above it.
+How do connect these devices with cables?: Click the lightning bolt in the 'tool bar' and then choose your desired cable type.  Then simply choose the objects you wish to connect and the slots you wish to use.
