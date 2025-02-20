@@ -5,9 +5,16 @@ Lab 1:1
 
 Summary: Used various commands to check information about the VM itself and other networks.
 
+Useful commands: 
+  1. ipconfig /all: Outputs information about the current addresses and ports.
+  2. ping: Pings a given address and outputs how long it took and how often the packets were dropped.
+  3. tracert: Tracks the jumps between the source computer and a given address, providing similar information to ping along the way.
+  4. nslookup: responds with IP addresses assigned to a given site.
 
-ipconfig /all- Outputs information about the current addresses and ports.
-ping- Pings a given address and outputs how long it took and how often the packets were dropped.
-tracert- Tracks the jumps between the source computer and a given address, providing similar information to ping along the way.
-nslookup- responds with IP addresses assigned to a given site.
+Major Issues: None notable.
 
+
+Turn off firewall (Win10):
+  1. Search "Firewall" and click first result
+  2. Click "Turn Windows Firewall on or off" on left sidebar
+  3. Use GUI
