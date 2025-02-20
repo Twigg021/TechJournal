@@ -1,0 +1,10 @@
+Trevor Nugent
+NET-150
+Lab 2:2
+
+
+Summary: Used wireshark to read sent and received packets and the data within them resulting from a ping command
+
+Useful Commands:
+  1. ipconfig /all: Outputs information about the current addresses and ports.
+  2. ping: Pings a given address and outputs how long it took and how often the packets were dropped.
