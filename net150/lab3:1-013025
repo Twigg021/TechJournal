@@ -1,0 +1,12 @@
+Trevor Nugent
+02/03/25
+Lab 3:1
+
+
+Summary: Used Wireshark to view the the ARP system of requests and replies for a network to establish itself.
+
+Useful Commands:
+  1. arp -d: Deletes all data stored within the table.
+  2. arp -a: Lists all current entries.
+
+Major Issues: None notable.
