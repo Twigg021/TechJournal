@@ -1,1 +1,15 @@
+Trevor Nugent
+02/13/25
+Lab 5:1
 
+
+Summary: Used Packet Tracer to create three seperate networks connected to the same router and used a sniffer to analyse traffic across them.
+
+Useful Commands:
+  1. ping: Pings a given address and outputs how long it took and how often the packets were dropped.
+
+Major Issues: None notable.
+
+
+
+How do you connect to a router?: To connect a device to a router, you must connect one of it's interfaces to that of the router, or connect it to something else that is also connected to the router.
