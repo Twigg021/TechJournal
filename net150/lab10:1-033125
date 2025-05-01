@@ -1,1 +1,13 @@
+Trevor Nugent
+NET-150
+Lab 6:2
 
+
+Summary: Used Packet Tracer routers and rip routing commands to simplify the connection of networks.
+
+Useful Commands:
+  1. ping: Pings a given address and outputs how long it took and how often the packets were dropped.
+  2. ip route: Sets the route (router side) from one network to another to allow them to connect.
+  3. router rip: Enters router config mode which allows you to add rip routing to connect other networks.
+
+Major Issues: None notable.
