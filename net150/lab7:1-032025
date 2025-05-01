@@ -2,6 +2,16 @@ Trevor Nugent
 NET-150
 Lab 7:1
 
+Summary: Used Packet Tracer to create a full corporate network.
+
+Useful Commands:
+  1. ping: Pings a given address and outputs how long it took and how often the packets were dropped.
+
+Major Issues: None notable other than packet tracer itself being problematic.
+
+
+
+
 Packet tracer in general was just a pain.  It never seemed to work exactly as I'd expect it to, and the UI was just poorly made and out dated.
 The only truly major thing is that it won't let me sign in properly.  I have to continue as guest to get in.
 
